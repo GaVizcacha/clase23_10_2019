@@ -29,5 +29,5 @@ seccion_t::~seccion_t() {
     delete[]lista_alumnos;
 }
 
-///f
+///gaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
