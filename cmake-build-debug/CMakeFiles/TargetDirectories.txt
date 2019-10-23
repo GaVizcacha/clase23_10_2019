@@ -1,0 +1,3 @@
+C:/Users/Jean Pierre/CLionProjects/clase23-10-2019/cmake-build-debug/CMakeFiles/clase23_10_2019.dir
+C:/Users/Jean Pierre/CLionProjects/clase23-10-2019/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jean Pierre/CLionProjects/clase23-10-2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir
